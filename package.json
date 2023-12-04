@@ -1,0 +1,21 @@
+{
+  "name": "api-wordpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "API_wordpress.js",
+  "scripts": {
+    "dev": "nodemon API_wordpress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^6.1.1",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "he": "^1.2.0",
+    "nodemon": "^3.0.2"
+  }
+}
