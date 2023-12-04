@@ -5,6 +5,8 @@
   "main": "API_wordpress.js",
   "scripts": {
     "dev": "nodemon API_wordpress",
+    "start": "node API_wordpress",
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
