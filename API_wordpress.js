@@ -11,7 +11,7 @@ const decodeHtmlEntities = (html) => {
   return match ? match[1] : "";
 };
 
-const apiUrl = "https://fourthdimensioon.com/wp-json/wp/v2/posts";
+const apiUrl = "https://angiebenavidesmarketing.com/wp-json/wp/v2/posts";
 const omnisendApiUrl = "https://api.omnisend.com/v3/products";
 const omnisendApiKey = process.env.OMNISEND_API_KEY; // Reemplaza con tu clave de API de Omnisend
 
